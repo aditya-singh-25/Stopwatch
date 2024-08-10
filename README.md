@@ -7,3 +7,6 @@ This is a simple yet interactive web-based stopwatch application that allows use
 - Click the **Pause** button to pause the timer.
 - Click the **Reset** button to clear the timer and lap records.
 - Click the **Lap** button to record the current time.
+
+# How Stopwatch looks
+![Stopwatch Screenshot]()
