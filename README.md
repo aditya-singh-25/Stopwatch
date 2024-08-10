@@ -12,4 +12,4 @@ This is a simple yet interactive web-based stopwatch application that allows use
 ![Stopwatch Screenshot](images/Stopwatch_rest.jpeg)
 
 # Stopwatch while running
-![Stopwatch Screenshot](images/Running_Stopwatch.jpeg)
+![Stopwatch Screenshot](images/Stopwatch.jpeg)
