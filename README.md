@@ -9,4 +9,4 @@ This is a simple yet interactive web-based stopwatch application that allows use
 - Click the **Lap** button to record the current time.
 
 # How Stopwatch looks
-![Stopwatch Screenshot](images/Stopwatch)
+![Stopwatch Screenshot](my-new-branch/images/Stopwatch.jpeg)
