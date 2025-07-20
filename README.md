@@ -7,6 +7,8 @@ This is a simple yet interactive web-based stopwatch application that allows use
 - **Reset** -  to clear the timer and lap records.
 - **Lap**  - to record the current time.
 
+## 🚀 Live Demo
+🔗 https://adistopwatch.netlify.app/
 # Stopwatch at rest
 ![Stopwatch Screenshot](images/Stopwatch_rest.jpeg)
 
